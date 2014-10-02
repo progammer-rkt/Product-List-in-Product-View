@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Programmerrkt_Listinview>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Programmerrkt_Listinview>
+    </modules>
+</config>

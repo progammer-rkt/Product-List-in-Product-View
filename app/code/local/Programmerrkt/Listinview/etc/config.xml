@@ -1,0 +1,24 @@
+<config>
+    <modules>
+        <Programmerrkt_Listinview>
+            <version>0.1.0</version>
+        </Programmerrkt_Listinview>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <programmerrkt_listinview>
+                    <file>programmerrkt_listinview.xml</file>
+                </programmerrkt_listinview>
+            </updates>
+        </layout>
+    </frontend>
+    <global>
+        <blocks>
+            <programmerrkt_listinview>
+                <class>Programmerrkt_Listinview_Block</class>
+            </programmerrkt_listinview>
+        </blocks>
+    </global>
+</config>
+
